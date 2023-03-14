@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @madmartian8
-- 👀 I’m interested in ... programming all kinds of applications, webfronts, video games, and more.
-- 🌱 I’m currently learning ... AI/ML systems to automate basic tasks.
+- 👀 I’m interested in ... programming all kinds of applications, webfronts, video games, and focusing on cyber security.
+- 🌱 I’m currently learning ... cyber security.
 - 💞️ I’m looking to collaborate on ... Python.
 - 📫 How to reach me ... martinle.career@gmail.com
 
