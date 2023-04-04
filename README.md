@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @madmartian8
-- 👀 I’m interested in ... programming all kinds of applications, webfronts, video games, and focusing on cyber security.
-- 🌱 I’m currently learning ... cyber security.
-- 💞️ I’m looking to collaborate on ... Python.
+- 👋 Hi, I’m Martin Le!
+- 👀 I’m interested in ... penetration testing, network hardening, and intrusion detection!
+- 🌱 I’m currently learning ... cyber security/IT Security.
+- 💞️ I’m looking to collaborate on ... Python, Linux/GNU.
 - 📫 How to reach me ... martinle.career@gmail.com
 
 <!---
